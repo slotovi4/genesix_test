@@ -1,0 +1,1 @@
+export { default as Layout, siteTitle } from './Layout';
